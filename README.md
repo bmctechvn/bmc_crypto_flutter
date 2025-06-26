@@ -51,7 +51,7 @@ dependencies:
   # Hoặc sử dụng git
   # bmc_cryptographic_flutter:
   #   git:
-  #     url: https://github.com/your-username/bmc_cryptographic_flutter.git
+  #     url: https://github.com/bmctechvn/bmc_crypto_flutter.git
 ```
 
 Sau đó, chạy lệnh sau trong terminal:
