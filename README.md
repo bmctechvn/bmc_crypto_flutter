@@ -1,8 +1,3 @@
-Chắc chắn rồi. Một file `README.md` tốt là bộ mặt của dự án trên GitHub, nó vừa mô tả sản phẩm, vừa là tài liệu hướng dẫn sử dụng đầu tiên cho bất kỳ ai quan tâm.
-
-Dựa trên toàn bộ thư viện `bmc_cryptographic` mà chúng ta đã xây dựng, dưới đây là một file `README.md` hoàn chỉnh và chuyên nghiệp. Bạn có thể copy toàn bộ nội dung này, lưu vào một file tên là `README.md` và đưa lên thư mục gốc của project plugin `bmc_cryptographic_flutter`.
-
------
 
 # **BMC Cryptographic - Flutter Plugin**
 
