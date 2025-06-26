@@ -191,4 +191,4 @@ Vui lòng xem file `lib/bmc_cryptographic_flutter.dart` để có danh sách đ�
 
 ## Giấy phép
 
-Dự án này được cấp phép theo Giấy phép MIT - xem file `LICENSE` để biết chi tiết.
+Dự án này được phát triển của BMC T&S JSC
