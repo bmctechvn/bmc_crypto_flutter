@@ -66,7 +66,6 @@ Import package và sử dụng đối tượng singleton `BmcCrypto` để truy 
 
 ```dart
 import 'package:bmc_cryptographic_flutter/bmc_cryptographic_flutter.dart';
-import 'dart:typed_data';
 import 'dart:convert';
 ```
 
